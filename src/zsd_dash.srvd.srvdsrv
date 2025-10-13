@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZSD_DASH'
+define service ZSD_DASH {
+  expose ZC_DASH;
+}
